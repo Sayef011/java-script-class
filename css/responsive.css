@@ -1,0 +1,27 @@
+@media(max-width:991px){
+    .MoonIcon {
+        font-size: 20px;
+    }
+    .navbar .allBtn {
+        transform: translateX(108px);
+    }
+    .navbar-brand-2 .img-fluid {
+        max-width: 15%;
+    }
+    .hidden-content .text-center{
+        display: none;
+    }
+    .hidden-content .none{
+        display: none;
+    }
+    .col.mousemove-field p {
+        width: 350px;
+    }
+    .col.mousemove-field h2 {
+        font-size: 33px;
+    }
+    section.MouseMove {
+        margin-bottom: 150px;
+    }
+
+}
